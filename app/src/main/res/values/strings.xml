@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="placeholder_weather">Sunny</string>
+    <string name="placeholder_city">NewYork</string>
+    <string name="placeholder_temp">19C</string>
+    <string name="placeholder_list_item_hour">16:00</string>
+    <string name="placeholder_list_item_weather">Sunny</string>
+    <string name="placeholder_list_item_temp">19°C</string>
+</resources>
